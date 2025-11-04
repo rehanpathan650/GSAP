@@ -1,7 +1,3 @@
-Here’s a clean and beginner-friendly **README.md** that explains the concepts used in your code (GSAP, ScrollTrigger, timelines, etc.). It’s structured so someone can understand your project and learn from it.
-
----
-
 ## 📌 GSAP + ScrollTrigger Practice Project
 
 This project is a simple playground to learn **GSAP animations**, **timelines**, and **ScrollTrigger**. It includes examples of element animations, stagger effects, repeat & yoyo, and scroll-based animations with pinning.
@@ -153,14 +149,6 @@ project/
 > Make sure you have internet for GSAP CDN links to work.
 
 ---
-
-If you'd like, I can also create a **better formatted README with screenshots or GIF demo**.
-Would you like:
-
-A) Basic (this one)
-B) Polished with visuals
-C) One for GitHub with emojis + demo instructions?
-
 
 `pin: true` **locks (pins) the element in place while the scroll animation runs**.
 
