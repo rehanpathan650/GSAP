@@ -1,0 +1,117 @@
+/* body {
+    /* background-color: #111; 
+    font-family: sans-serif;
+} */
+
+/* #box1 {
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+
+#box2 {
+    height: 200px;
+    width: 200px;
+    background-color: lightseagreen;
+    margin-bottom: 20px;
+}
+
+#box3 {
+    height: 200px;
+    width: 200px;
+    background-color: goldenrod;
+    margin-bottom: 20px;
+
+} */
+
+/* #nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;    
+}
+
+#part2 {
+    display: flex;
+    gap: 50px;
+}
+/* Sheriyans Coding School */
+
+/*
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    white-space: nowrap;
+} 
+ h1 {
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* ScrollTrigger */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#page1 {
+  height: 100%;
+  width: 100%;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#page2 {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(46, 155, 192);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#page3 {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(3, 56, 73);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#box {
+  height: 300px;
+  width: 300px;
+  background-color: crimson;
+}
+
+h1 {
+    font-size: 60px;
+    position: relative;
+    background-color: blueviolet;
+}
+
+h2 {
+    font-size: 60px;
+    position: relative;
+    background-color: lightgoldenrodyellow;
+}
